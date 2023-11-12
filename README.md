@@ -1,4 +1,5 @@
 Ship Classification using Deep Learning
+
 This repository contains a deep learning project that focuses on classifying images of ships into different categories, such as Cargo, Military, Carrier, Cruise, and Tankers. The project uses TensorFlow and EfficientNetB3 as the base model for image classification.
 
 Dataset
